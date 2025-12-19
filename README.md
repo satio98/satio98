@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I’m Laksamana 👋
 
-<!--
-**satio98/satio98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer with 3+ years of experience building **LLM/RAG systems, ETL pipelines, and machine learning solutions** for research and production environments.  
+Currently pursuing a **Master of Artificial Intelligence at Monash University (GPA 4.0/4.0)**.
 
-Here are some ideas to get you started:
+## What I Do
+- Build end-to-end AI systems from data ingestion to deployment
+- Develop LLM & RAG applications using LangChain and vector databases
+- Design ETL pipelines for structured and unstructured data
+- Translate research ideas into scalable, real-world AI products
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experience Highlights
+- Built production-grade **Legal RAG systems** reducing compliance research from hours to seconds  
+- Developed **digital twin simulators** for autonomous systems and surgical AI research  
+- Delivered clinical and enterprise AI prototypes used by real users
+
+## Tech Stack
+**Languages:** Python, SQL, Java  
+**AI/ML:** LLMs, RAG, LangChain, OpenAI APIs, BERT, RL  
+**Backend:** FastAPI, Flask  
+**Data:** ETL, Pinecone, SQL/NoSQL  
+**Cloud & DevOps:** AWS, Azure, Docker, GitHub Actions  
+
+
+📫 **Contact:**  
+- Email: satio98@gmail.com  
+- LinkedIn: [LinkedIn](https://linkedin.com)  
+- Portfolio: [Portfolio](https://your-portfolio-link)
+
